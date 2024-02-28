@@ -1,2 +1,4 @@
 # Git_First_FootPrint
-First step towards Git
+The first step towards Git
+<br>
+Author: M Shishir Chandhra 
